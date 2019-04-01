@@ -1,13 +1,16 @@
 # vimsyntax
-Vim syntax highlighting customized
-
-
-hive.vim
-========
-
-Vim syntax highlighting for hiveSQL
+Vim syntax highlighting customized.
 
 Copy directory syntax to ~/.vim/
+Append corresponding lines to ~/.vimrc
+
+
+syntax file list
+========
+
+## hive.vim
+
+Vim syntax highlighting for hiveSQL
 
 Append these line to ~/.vimrc:
 
