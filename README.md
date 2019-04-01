@@ -2,6 +2,7 @@
 Vim syntax highlighting customized.
 
 Copy directory syntax to ~/.vim/
+
 Append corresponding lines to ~/.vimrc
 
 
